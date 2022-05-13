@@ -1,0 +1,10 @@
+﻿Strain,Lab ID,Genotype,Source
+w303-1,S0001,MATa ura3-52 trp1Δ2 leu2-3_112 his3-11 can1-100,D. Greig Laboratory
+WS950,S0023,MATa ste3::kanMX4 lys2Δ0 ade4::ADE4(PUR6) ADHp-DsRed.T4,W. Shou Laboratory
+WS954,S0024,MATa ste3::kanMX4 ade8Δ0 lys21::LYS21(fbr) ADHp-venus-YFP,W. Shou Laboratory
+yMM65,S0027,MATa leu4∆::HPHMX4 TRP2FBR his3∆::prACT1-ymCherry-tADH1 HIS3MX6 prACT1-yCerulean-tADH1@URA3 hmlα∆::BLE leu9∆::KANMX6 can1-100,A. Murray Laboratory
+Progenitor,S0034,MATa ura3-52 trp1Δ2 leu2-3_112 his3-11 can1-100 HML@::KANMX ade4::CaURA5 lys2::LEU2,This Work
+ADE↑,S0056,MATa trp1Δ2 leu2-3_112 his3-11 can1-100 HML@::KANMX ADE4-FBR lys2::LEU2 ,This Work
+LYS↑,S0054,"MATa ura3-52 trp1Δ2 leu2-3_112 his3-11 can1-100 HML@::KANMX ade4::CaURA5 lys2::LEU2 (lys21::LYS21-fbr, LYS2)",This Work
+HIS↑,S0052,"MATa ura3-52 trp1Δ2 leu2-3_112 his3-11 can1-100 HML@::KANMX ade4::CaURA5 lys2::LEU2  (his1::HIS1-fbr, HIS3)",This Work
+TRP↑,S0055,"MATa ura3-52 trp1Δ2 leu2-3_112 his3-11 can1-100 HML@::KANMX ade4::CaURA5 lys2::LEU2  (trp2::TRP2-fbr, TRP1)",This Work
